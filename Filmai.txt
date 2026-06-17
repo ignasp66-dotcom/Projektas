@@ -1,0 +1,18 @@
+
+1;The Shawshank Redemption;Drama;1994;142;9.3
+2;The Godfather;Kriminalinis;1972;175;9.2
+3;The Dark Knight;Veiksmo;2008;152;9.0
+4;Pulp Fiction;Kriminalinis;1994;154;8.9
+5;Fight Club;Drama;1999;139;8.8
+6;Inception;Moksline fantastika;2010;148;8.8
+7;Interstellar;Moksline fantastika;2014;169;8.7
+8;The Conjuring;Siaubo;2013;112;7.5
+9;Insidious;Siaubo;2010;103;6.8
+10;Hereditary;Siaubo;2018;127;7.3
+11;Se7en;Trileris;1995;127;8.6
+12;Shutter Island;Psichologinis trileris;2010;138;8.2
+13;Gone Girl;Psichologinis trileris;2014;149;8.1
+14;The Silence of the Lambs;Psichologinis trileris;1991;118;8.6
+15;The Green Mile;Drama;1999;189;8.6
+
+
