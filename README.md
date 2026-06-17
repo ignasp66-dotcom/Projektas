@@ -101,17 +101,6 @@ Pavyzdys:
 
 ---
 
-## Programos paleidimas
-
-1. Atsisiųskite projektą iš GitHub.
-2. Atidarykite projektą pasirinktoje C++ kūrimo aplinkoje.
-3. Įsitikinkite, kad failas „filmai.txt“ yra tame pačiame aplanke kaip programa.
-4. Sukompiliuokite programą.
-5. Paleiskite programą.
-6. Naudokite meniu funkcijas.
-
----
-
 ## Projekto autorius
 
 Studento vardas ir pavardė: Ignas Pumputis
